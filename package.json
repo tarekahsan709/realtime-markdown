@@ -1,0 +1,28 @@
+{
+  "name": "realtime-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "markdown realtime sharejs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarekahsan709/realtime-markdown.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "nazmul ahsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarekahsan709/realtime-markdown/issues"
+  },
+  "homepage": "https://github.com/tarekahsan709/realtime-markdown#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "redis": "^2.6.5",
+    "share": "^0.6.3"
+  }
+}
